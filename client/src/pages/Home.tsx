@@ -223,7 +223,7 @@ export default function Home() {
             <h2 id="letter-title">For the days<br />you forget<br /><em>how loved</em><br />you are.</h2>
           </Reveal>
           <Reveal className="letter-card">
-            <div className="letter-card-top"><span>dear you,</span><span>∞</span></div>
+            <div className="letter-card-top"><span>dear Nikky,</span><span>∞</span></div>
             <p>There are a thousand ways to say it, but I keep coming back to the simplest one: I am so glad you are here.</p>
             <p>Thank you for making a home out of the in-between. For the jokes, the patience, the beautiful chaos. For every version of us still on its way.</p>
             <p>Wherever the next chapter takes us, I hope you know this much — you are my favorite part of the story.</p>
